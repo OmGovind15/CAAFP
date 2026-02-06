@@ -1,4 +1,4 @@
-# CAAFP - Clustered Federated Learning for Human Activity Recognition
+# CAAFP - Cluster Aware Adaptive Federated Learning
 
 
 ## Overview
