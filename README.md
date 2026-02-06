@@ -5,7 +5,7 @@
 
 CAAFP (Cluster-Aware Adaptive Federated Pruning) implements and compares multiple federated learning strategies designed for human activity recognition tasks. The project includes implementations of several approaches including cluster-based federated learning, efficient federated learning, and specialized pruning techniques.
 
-## Features
+## Code Content
 
 - **Multiple FL Algorithms**: Implementations of various federated learning approaches
   - CAAFP (Cluster-Aware Adaptive Federated Pruning)-ours
